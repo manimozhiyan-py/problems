@@ -1,0 +1,1 @@
+#Number of  Ways N People Can Occupy R Seats in a Classroom (Permutations)
