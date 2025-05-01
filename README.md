@@ -1,7 +1,6 @@
 # ARRAY
 ---
 
-`
 1. **Find the smallest number in an array**  
 2. **Find the largest number in an array**  
 3. **Second Smallest and Second Largest element in an array**  
@@ -28,4 +27,5 @@
 24. **Sort an array according to the order defined by another array**  
 25. **Search an element in an array**  
 26. **Check if Array is a subset of another array or not**
-`
+
+---
