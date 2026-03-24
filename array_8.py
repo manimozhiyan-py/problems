@@ -9,4 +9,5 @@ k = 3
 
 print(arr)'''
 
-print(arr[-k:])
+rotated_arr = arr[-(len(arr) - k):] + arr[:k]
+print(rotated_arr)
